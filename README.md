@@ -2,9 +2,9 @@
 A multi-purpose tweaking tool to remove Amazon Alexa from your device. For good. 
 
 ## Why?
-No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations without your knowledge or consent. There is no complete way to disable Alexa via the software. This is where NoLexa comes in handy.
+No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to disable Alexa via the software and this is where NoLexa comes in handy.
 
-My mom is an avid hater against Alexa, and even went to drill out the microphone in the FireTV to prevent Alexa from listening into conversations. With research, there is no complete way to remove Alexa.
+My mom is an avid hater against Alexa and even went to drill out the microphone in the FireTV to prevent Alexa from listening in. My mom wanted to remove Alexa from the Kindle because in newer updates, it got more intrusive. So this is what gave me the idea to create this.
 
 
 ## Features
@@ -26,7 +26,7 @@ NoLexa currently supports the following Kindle Fire Devices.
 
 
 ## Support
-You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects such as Tasks, NoLexa, and LiteTools as a business. 
+You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects such as Tasks, NoLexa, and LiteTools as a business. There are different options of donating such as Patreon and PayPal.
 
 [Patreon](https://patreon.com/byronbytes)
 
@@ -36,7 +36,7 @@ You may donate if this application has helped you, donating can help me develop 
 
 Q: Why is NoLexa **not** open sourced yet?
 
-A: I believe in keeping software open sourced, but this application is experimental, and I want to keep this private until it's fully stable. Also there could be legal issues, which I'm trying to avoid, but I'm here to express freedom.
+A: I believe in keeping software open sourced, but this application is experimental, and I want to keep this private until it's fully stable. There also could be legal issues, which I'm trying to avoid, but I'm here to express freedom for others.
 
 ## Credits
 [MADB for .NET](https://github.com/quamotion/madb)
