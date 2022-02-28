@@ -3,11 +3,20 @@ A multi-purpose tweaking tool to remove Amazon Alexa from your device. For good.
 
 
 ## Features
-- Remove Alexa from your Kindle Fire
+- Remove Alexa from your Kindle Fire.
 - Root and unroot your device.
-
 - Built-in Package Manager
-  - Install commonly used tools for your Kindle with one click.
-  - Install custom packages from your computer
-  - Remove Amazon bloatware.
+- Install custom .apks from your computer.
+- Remove built-in packages and Amazon bloatware.
  
+ ## Supported Devices
+NoLexa currently supports the following Kindle Fire Devices.
+
+- Fire HD 8 (2018)
+- Fire HD 8 (2017)
+
+Want to figure out which device you have? This wikipedia is very useful. https://en.wikipedia.org/wiki/Fire_HD
+
+
+## Why?
+
