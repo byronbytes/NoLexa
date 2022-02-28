@@ -38,6 +38,10 @@ Q: Why is NoLexa **not** open sourced yet?
 
 A: I believe in keeping software open sourced, but this application is experimental, and I want to keep this private until it's fully stable. There also could be legal issues, which I'm trying to avoid, but I'm here to express freedom for others.
 
+Q: Is this dangerous?
+
+A: No. I have tested and debugged this on multiple different devices and it is completely safe to use.
+
 ## Credits
 [MADB for .NET](https://github.com/quamotion/madb)
 
