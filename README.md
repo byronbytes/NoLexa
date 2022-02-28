@@ -14,8 +14,8 @@ A multi-purpose tweaking tool to remove Amazon Alexa from your device. For good.
  ## Supported Devices
 NoLexa currently supports the following Kindle Fire Devices.
 
-- Fire HD 8 (2018)
-- Fire HD 8 (2017)
+- Fire HD 8 (2018) (Tested + Full Support)
+- Fire HD 8 (2017) (Tested + Full Support)
 
 Want to figure out which device you have? [This](https://en.wikipedia.org/wiki/Fire_HD) wikipedia page shows all Fire names and codenames.
 
@@ -30,7 +30,6 @@ Here's a story on why I developed this. My mom is an avid hater against Alexa, a
 Q: Why is NoLexa **not** open sourced yet?
 
 A: I believe in keeping software open sourced, but this application is experimental, and I want to keep this private until it's fully stable. Also there could be legal issues, which I'm trying to avoid, but I'm here to express freedom.
-
 
 ## Credits
 https://github.com/quamotion/madb
