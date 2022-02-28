@@ -8,7 +8,7 @@ A multi-purpose tweaking tool to remove Amazon Alexa from your device. For good.
 - Built-in Package Manager.
 - Install custom .apks from your computer.
 - Remove bloatware packages from your Kindle.
-- Reboot your device into recovery mode.
+- Reboot your device into recovery mode or default reboot.
 - Disable OTA Upates.
  
  ## Supported Devices
