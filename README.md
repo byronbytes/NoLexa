@@ -39,7 +39,7 @@ Q: Why is NoLexa **not** open sourced yet?
 A: I believe in keeping software open sourced, but this application is experimental, and I want to keep this private until it's fully stable. Also there could be legal issues, which I'm trying to avoid, but I'm here to express freedom.
 
 ## Credits
-https://github.com/quamotion/madb
+[MADB for .NET](https://github.com/quamotion/madb)
 
 This project would not have been possible if it wasn't for this extremely helpful library. This library sets up the ADB session and has an extensive amount of utility features.
 
