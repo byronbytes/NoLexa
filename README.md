@@ -24,7 +24,6 @@ NoLexa currently supports the following Kindle Fire Devices.
 
 [This](https://en.wikipedia.org/wiki/Fire_HD) wikipedia page shows all Fire names and codenames.
 
-
 ## Support
 You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects such as Tasks, NoLexa, and LiteTools as a business. There are different options of donating such as Patreon and PayPal.
 
@@ -37,10 +36,6 @@ You may donate if this application has helped you, donating can help me develop 
 Q: Why is NoLexa **not** open sourced yet?
 
 A: I believe in keeping software open sourced, but this application is experimental, and I want to keep this private until it's fully stable. There also could be legal issues, which I'm trying to avoid, but I'm here to express freedom for others.
-
-Q: Is this dangerous?
-
-A: No. I have tested and debugged this on multiple different devices and it is completely safe to use.
 
 ## Credits
 [MADB for .NET](https://github.com/quamotion/madb)
