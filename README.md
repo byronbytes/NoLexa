@@ -9,6 +9,7 @@ A multi-purpose tweaking tool to remove Amazon Alexa from your device. For good.
 - Install custom .apks from your computer.
 - Remove bloatware packages from your Kindle.
 - Reboot your device into recovery mode.
+- Disable OTA Upates.
  
  ## Supported Devices
 NoLexa currently supports the following Kindle Fire Devices.
@@ -20,7 +21,9 @@ Want to figure out which device you have? [This](https://en.wikipedia.org/wiki/F
 
 
 ## Why?
-It's for certain that no one really likes Amazon Alexa. Many news articles show that it listens on your conversations without your knowledge, and has been proven true. There has never been a real way to disable Alexa using the software.
+No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations without your knowledge or consent. There is no complete way to disable Alexa via the software. This is where NoLexa comes in handy.
+
+Here's a story on why I developed this. My mom is an avid hater against Alexa, and even went to drill out the microphone in the FireTV to prevent Alexa from listening into conversations. With research, there is no complete way to remove Alexa, even the Amazon Fire Toolbox only disables it, and not fully removes it.
 
 ## Credits
 https://github.com/quamotion/madb
