@@ -25,6 +25,9 @@ NoLexa currently supports the following Kindle Fire Devices.
 [This](https://en.wikipedia.org/wiki/Fire_HD) wikipedia page shows all Fire names and codenames.
 
 
+## Support
+You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. (Donation link coming soon. WIP.)
+
 ## FAQ
 
 Q: Why is NoLexa **not** open sourced yet?
