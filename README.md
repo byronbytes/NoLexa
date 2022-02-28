@@ -1,2 +1,2 @@
 # NoLexa
-Something huge, more details coming soon.
+A tweaking tool for your Kindle Fire devices to remove Amazon Alexa for good.
