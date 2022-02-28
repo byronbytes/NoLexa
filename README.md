@@ -1,6 +1,12 @@
 # NoLexa
 A multi-purpose tweaking tool to remove Amazon Alexa from your device. For good.
 
+No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations without your knowledge or consent. There is no complete way to disable Alexa via the software. This is where NoLexa comes in handy.
+
+
+## Why?
+My mom is an avid hater against Alexa, and even went to drill out the microphone in the FireTV to prevent Alexa from listening into conversations. With research, there is no complete way to remove Alexa, even the Amazon Fire Toolbox only disables it, and not fully removes it.
+
 
 ## Features
 - Remove Alexa from your Kindle Fire.
@@ -19,11 +25,6 @@ NoLexa currently supports the following Kindle Fire Devices.
 
 Want to figure out which device you have? [This](https://en.wikipedia.org/wiki/Fire_HD) wikipedia page shows all Fire names and codenames.
 
-
-## Why?
-No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations without your knowledge or consent. There is no complete way to disable Alexa via the software. This is where NoLexa comes in handy.
-
-Here's a story on why I developed this. My mom is an avid hater against Alexa, and even went to drill out the microphone in the FireTV to prevent Alexa from listening into conversations. With research, there is no complete way to remove Alexa, even the Amazon Fire Toolbox only disables it, and not fully removes it.
 
 ## FAQ
 
