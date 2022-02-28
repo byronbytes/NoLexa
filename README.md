@@ -16,7 +16,7 @@ NoLexa currently supports the following Kindle Fire Devices.
 - Fire HD 8 (2018)
 - Fire HD 8 (2017)
 
-Want to figure out which device you have? (This)[https://en.wikipedia.org/wiki/Fire_HD] wikipedia article shows all Fire names and codenames.
+Want to figure out which device you have? [This](https://en.wikipedia.org/wiki/Fire_HD) wikipedia article shows all Fire names and codenames.
 
 
 ## Why?
