@@ -26,7 +26,11 @@ NoLexa currently supports the following Kindle Fire Devices.
 
 
 ## Support
-You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. (Donation link coming soon. WIP.)
+You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects such as Tasks, NoLexa, and LiteTools as a business. 
+
+[Patreon](https://patreon.com/byronbytes)
+
+[PayPal]
 
 ## FAQ
 
