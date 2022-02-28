@@ -25,6 +25,13 @@ No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to
 
 Here's a story on why I developed this. My mom is an avid hater against Alexa, and even went to drill out the microphone in the FireTV to prevent Alexa from listening into conversations. With research, there is no complete way to remove Alexa, even the Amazon Fire Toolbox only disables it, and not fully removes it.
 
+## FAQ
+
+Q: Why is NoLexa **not** open sourced yet?
+
+A: I believe in keeping software open sourced, but this application is experimental, and I want to keep this private until it's fully stable. Also there could be legal issues, which I'm trying to avoid, but I'm here to express freedom.
+
+
 ## Credits
 https://github.com/quamotion/madb
 
