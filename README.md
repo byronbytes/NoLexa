@@ -18,7 +18,7 @@ My mom is an avid hater against Alexa and even went to drill out the microphone 
 - Screenshot and screen-record your screen. (50% Complete)
 - Dump all system information to a text file. (85% Complete)
 - Backup and Restore your device. (5% Complete)
-- Create and remove user profiles. (0% Complete)
+- Create and remove user profiles. (15% Complete)
  
  ## Supported Devices
 NoLexa currently supports the following Kindle Fire Devices.
