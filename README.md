@@ -16,7 +16,8 @@ My mom is an avid hater against Alexa and even went to drill out the microphone 
 - Reboot your device into recovery mode, fastboot, or regular rebooting. (100% Complete)
 - Disable OTA Upates. (0% Complete)
 - Screenshot and screen-record your screen. (50% Complete)
-- Dump all system information to a text file (85% Complete)
+- Dump all system information to a text file. (85% Complete)
+- Backup and Restore your device. (5% Complete)
  
  ## Supported Devices
 NoLexa currently supports the following Kindle Fire Devices.
@@ -44,3 +45,9 @@ A: I believe in keeping software open sourced, but this application is experimen
 
 This project would not have been possible if it wasn't for this extremely helpful library. This library sets up the ADB session and has an extensive amount of utility features.
 
+
+note to self:
+
+https://www.automatetheplanet.com/adb-cheat-sheet/
+
+https://technastic.com/adb-commands-list-adb-cheat-sheet/
