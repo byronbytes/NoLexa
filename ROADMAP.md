@@ -9,6 +9,8 @@ This version is a pre-release of NoLexa, and will contain beta features. Not eve
 - Reboot your device into recovery mode, fastboot, or regular rebooting.
 - Screenshot and screen-record your screen.
 - Dump all system information to a text file.
+- Create and remove user profiles. (0% Complete)
+
 
 ## Version 1.0.0 Official Release
 This version will be the first release of NoLexa. There may be public test builds before this, but we aim to release the following features.
@@ -19,6 +21,9 @@ This version will be the first release of NoLexa. There may be public test build
 - Reboot your device into recovery mode, fastboot, or regular rebooting.
 - Screenshot and screen-record your screen.
 - Dump all system information to a text file.
+- Backup and Restore your device. (5% Complete)
+- Create and remove user profiles. (0% Complete)
+
 
 
 
