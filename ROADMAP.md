@@ -4,6 +4,7 @@
 ## Version 1.0.0 Beta Preview
 This version is a pre-release of NoLexa, and will contain beta features. Not everything will be functional since it's a prerelease.
 
+- Built in Package Manager.
 - Install custom .apks from your computer.
 - Reboot your device into recovery mode, fastboot, or regular rebooting.
 - Screenshot and screen-record your screen.
