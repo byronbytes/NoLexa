@@ -2,14 +2,14 @@
 A multi-purpose tweaking tool to remove Amazon Alexa from your device. For good. 
 
 ## Why?
-No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy.
+No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
 
 My mom is an avid hater against Alexa and even went to drill out the microphone in the FireTV to prevent Alexa from listening in. My mom wanted to remove Alexa from the Kindle because in newer updates, it got more intrusive. So this is what gave me the idea to create this.
 
 
 ## Features
 - Remove Alexa from your Kindle Fire. (10% Complete)
-- Root and unroot your device. (5% Complete)
+- Root and unroot your device. (5% Complete) (May need to manually root.)
 - Built-in Package Manager. (40% Complete)
 - Install custom .apks from your computer. (80% Complete)
 - Remove bloatware packages from your Kindle. (5% Complete)
