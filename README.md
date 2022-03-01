@@ -15,6 +15,8 @@ My mom is an avid hater against Alexa and even went to drill out the microphone 
 - Remove bloatware packages from your Kindle. (5% Complete)
 - Reboot your device into recovery mode, fastboot, or regular rebooting. (100% Complete)
 - Disable OTA Upates. (0% Complete)
+- Screenshot and screen-record your screen. (50% Complete)
+- Dump all system information to a text file (85% Complete)
  
  ## Supported Devices
 NoLexa currently supports the following Kindle Fire Devices.
