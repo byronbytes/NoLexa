@@ -1,5 +1,5 @@
 # NoLexa
-A multi-purpose tweaking tool to remove Amazon Alexa from your device. For good. 
+A multi-purpose tweaking tool to remove Amazon Alexa from your device. For good. **NoLexa will be releasing in April / May**
 
 ## Why?
 No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
