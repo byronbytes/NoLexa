@@ -11,8 +11,8 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 - Remove Alexa from your Kindle Fire. (10% Complete)
 - View basic device information (100% Complete)
 - Root your device. (5% Complete) **(May need to manually root.)**
-- Built-in Package Manager. (40% Complete)
-- Install custom .apks from your computer. (80% Complete)
+- Built-in Package Manager. (45% Complete)
+- Install custom .apks from your computer. (90% Complete)
 - Remove bloatware packages from your Kindle. (5% Complete)
 - Reboot your device into recovery mode, fastboot, or regular rebooting. (100% Complete)
 - Disable OTA Upates. (0% Complete)
@@ -20,7 +20,7 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 - Dump all system information to a text file. (85% Complete)
 - Backup and Restore your device. (5% Complete)
 - Create and remove user profiles. (15% Complete)
-- Battery Spoofer (50% Complete)
+- Battery Spoofer (80% Complete)
  
  ## Supported Devices
 NoLexa currently is known to work on the following Kindle Fire Devices.
