@@ -1,5 +1,5 @@
 # NoLexa
-A multi-purpose tweaking tool to remove Amazon Alexa from your device. For good. **NoLexa will be releasing in April / May**
+A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. **NoLexa will be available for testing in April / May due to other projects getting in the way.**
 
 ## Why?
 No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
@@ -23,7 +23,7 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 - Battery Spoofer (50% Complete)
  
  ## Supported Devices
-NoLexa currently supports the following Kindle Fire Devices.
+NoLexa currently is known to work on the following Kindle Fire Devices.
 
 - Fire HD 8 (2018) (Tested + Full Support)
 - Fire HD 8 (2017) (Tested + Full Support)
@@ -49,7 +49,8 @@ A: I believe in keeping software open sourced, but this application is experimen
 This project would not have been possible if it wasn't for this extremely helpful library. This library sets up the ADB session and has an extensive amount of utility features.
 
 
-note to self:
+### Helpful Sites
+Mainly saved for later, but these will come in handy for the future.
 
 https://www.automatetheplanet.com/adb-cheat-sheet/
 
