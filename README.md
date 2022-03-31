@@ -1,5 +1,5 @@
 # NoLexa
-A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. **NoLexa will be available for testing in April / May due to other projects getting in the way.**
+A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. **NoLexa will be available for testing in the Summer of 2022 due to other projects getting in the way and the complexity of this project.**
 
 ## Why?
 No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
@@ -29,6 +29,9 @@ NoLexa currently is known to work on the following Kindle Fire Devices.
 - Fire HD 8 (2017) (Tested + Full Support)
 
 [This](https://en.wikipedia.org/wiki/Fire_HD) wikipedia page shows all Fire names and codenames.
+
+## Installation
+To start using NoLexa, you will need a few prerequisites.
 
 ## Support
 You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects such as Tasks, NoLexa, and LiteTools as a business. There are different options of donating such as Patreon and PayPal.
