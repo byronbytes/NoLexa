@@ -1,7 +1,7 @@
 # NoLexa
 A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. 
 
-**NoLexa will be available for testing in the Summer of 2022 due to other projects getting in the way and the complexity of this project.**
+**NoLexa will be available for private testing in the Spring of 2023 due to other projects and the complexity of this project.**
 
 ## Why?
 No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
@@ -16,11 +16,10 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 - Built-in Package Manager. (45% Complete)
 - Install custom .apks from your computer. **(100% Complete)** (Testing Compatibility Issues)
 - Remove bloatware packages from your Kindle. (5% Complete)
-- Reboot your device into recovery mode, fastboot, or regular rebooting. **(100% Complete)**
+- Reboot your device into recovery mode or fastboot. **(100% Complete)**
 - Disable OTA Upates. (0% Complete)
 - Dump all system information to a text file. **(95% Complete)**
 - Backup and Restore your device. **(100% Complete)**
-- Battery Spoofer (95% Complete)
  
  ## Supported Devices
 NoLexa currently is known to work on the following Kindle Fire Devices.
@@ -42,7 +41,7 @@ You may donate if this application has helped you, donating can help me develop 
 
 Q: Why is NoLexa **not** open sourced yet?
 
-A: I believe in keeping software open sourced, but this application is experimental, and I want to keep this private until it's fully stable. There also could be legal issues, which I'm trying to avoid, but I'm here to express freedom for others.
+A: I believe in keeping software open source, but this application is a very experimental stage and I want to keep this private until it's fully stable. There also could be legal issues, which I'm trying to avoid, but I'm here to express freedom for others.
 
 ## Credits
 [MADB for .NET](https://github.com/quamotion/madb)
