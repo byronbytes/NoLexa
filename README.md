@@ -1,28 +1,27 @@
 # NoLexa
-A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. 
-
-**NoLexa will be available for private testing in the Spring of 2023 due to other projects and the complexity of this project.**
+A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. NoLexa will be available for beta testing in the Spring of 2023.
 
 ## Why?
-No one likes Amazon Alexa. It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
+**No one likes Amazon Alexa.** It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
 
-My mom is an avid hater against Alexa and even went as far as to drill out the microphone in the FireTV to prevent Alexa from listening in. My mom wanted to remove Alexa from the Kindle because in newer updates, it got more intrusive. So this is what gave me the idea to create this.
+My mom is an avid hater against Alexa and even went as far as to drill out the microphone in the FireTV to prevent Alexa from listening in. She wanted to remove Alexa completely from the Kindle because in newer updates it got more intrusive and would keep on enabling after disabling it. 
 
 
 ## Features
-- Remove Alexa from your Kindle Fire. (10% Complete)
-- View basic device information **(100% Complete)**
-- Root your device. (5% Complete) **(May need to manually root.)**
-- Built-in Package Manager. (45% Complete)
-- Install custom .apks from your computer. **(100% Complete)** (Testing Compatibility Issues)
-- Remove bloatware packages from your Kindle. (5% Complete)
-- Reboot your device into recovery mode or fastboot. **(100% Complete)**
-- Disable OTA Upates. (0% Complete)
-- Dump all system information to a text file. **(95% Complete)**
-- Backup and Restore your device. **(100% Complete)**
+- Remove Alexa from your Kindle Fire.
+- View basic device information and dump them to a text file.
+- Root your device. **(May need to manually root.)**
+- Built-in Package Manager.
+- Install custom .apks from your computer (aka sideloading).
+- Remove bloatware packages from your Kindle. 
+- Reboot your device into recovery mode or fastboot.
+- Disable OTA Upates.
+- Backup and Restore your device.
+- Take screen captures and recordings remotely.
+- Spoof your battery percentage.
  
  ## Supported Devices
-NoLexa currently is known to work on the following Kindle Fire Devices.
+NoLexa currently is known to work on the following Kindle Fire Devices. If your model is not listed below there is a chance it may not be supported.
 
 - Fire HD 8 (2018) (Tested + Full Support)
 - Fire HD 8 (2017) (Tested + Full Support)
@@ -33,7 +32,7 @@ NoLexa currently is known to work on the following Kindle Fire Devices.
 To start using NoLexa, you will need a few prerequisites.
 
 ## Support
-You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects such as Tasks, NoLexa, and LiteTools as a business. There are different options of donating such as Patreon and others.
+You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects such as Tasks and NoLexa. There are different options of donating such as Patreon and others.
 
 [Patreon](https://patreon.com/byronbytes)
 
@@ -50,7 +49,7 @@ This project would not have been possible if it wasn't for this extremely helpfu
 
 
 ### Resources
-Mainly saved for later, but these will come in handy for the future, and if you want to help out with new features, here's the way to start.
+These resources are meant for development, but if you want to PR this is a good place to start.
 
 https://www.automatetheplanet.com/adb-cheat-sheet/
 
