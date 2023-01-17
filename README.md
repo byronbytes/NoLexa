@@ -8,13 +8,26 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 
 
 ## Features
-- Remove Alexa from your Kindle Fire.
+<details>
+<summary> Remove Alexa from your Kindle Fire. </summary>
+ Removes all functionality from Alexa, not just disabling it from the software, but uninstalling it entirely.
+ </details>
+ 
 <details>
 <summary>View device information and dump them to a text file.</summary>
 You will be able to view most information about your device.
 </details>
-- Root your device. **(May need to manually root.)**
-- Built-in Package Manager.
+
+<details>
+ <summary> Root your device. </summary>
+ You may need to manually root your device for this to work.
+ </details>
+ 
+ <details>
+ <summary> Built-in Package Manager. </summary>
+ View, uninstall, enable, and disable built in packages.
+ </details>
+ 
 - Install custom .apks from your computer (aka sideloading).
 - Remove bloatware packages from your Kindle. 
 - Reboot your device into recovery mode or fastboot.
