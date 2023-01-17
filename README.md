@@ -25,13 +25,28 @@ You will be able to view most information about your device.
  
  <details>
  <summary> Built-in Package Manager. </summary>
- View, uninstall, enable, and disable built in packages.
+ View, uninstall, enable, and disable built in packages. You can also remove bloatware packages using this tool.
  </details>
  
-- Install custom .apks from your computer (aka sideloading).
-- Remove bloatware packages from your Kindle. 
-- Reboot your device into recovery mode or fastboot.
-- Disable OTA Upates.
+<details> 
+ <summary> Install custom .apks from your computer.</summary>
+ Sideload .apks and custom applications straight from NoLexa.
+ 
+ NOTE: There is an issue where if it is not compatible with your current Kindle version it fails to install properly.
+ </details>
+ 
+ <details>
+ <summary>Advanced reboot tools.</summary>
+ Ability to reboot into recovery mode or fastboot.
+ </details>
+ 
+ <details>
+ <summary>Disable OTA Upates.</summary>
+ Disable your device from automatically updating.
+ 
+ It is highly recommended to enable this option so your device does not get bricked from modifications.
+ </details>
+ 
 - Backup and Restore your device.
 - Take screen captures and recordings remotely.
 - Spoof your battery percentage.
