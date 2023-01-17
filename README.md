@@ -4,18 +4,20 @@ A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. 
 ## Why?
 **No one likes Amazon Alexa.** It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
 
+
 My mom is an avid hater against Alexa and even went as far as to drill out the microphone in the FireTV to prevent Alexa from listening in. She wanted to remove Alexa completely from the Kindle because in newer updates it got more intrusive and would keep on enabling after disabling it. 
 
 
 ## Features
 <details>
 <summary> Remove Alexa from your Kindle Fire. </summary>
- Removes all functionality from Alexa, not just disabling it from the software, but uninstalling it entirely.
+ Removes all functionality from Alexa. Not just disabling it from the software, but uninstalling it entirely.
  </details>
  
 <details>
 <summary>View device information and dump them to a text file.</summary>
-You will be able to view most information about your device.
+You will be able to view most information about your device such as:
+ - Advanced information about device name, version, etc
 </details>
 
 <details>
@@ -25,37 +27,54 @@ You will be able to view most information about your device.
  
  <details>
  <summary> Built-in Package Manager. </summary>
- View, uninstall, enable, and disable built in packages. You can also remove bloatware packages using this tool.
+ View, uninstall, enable, and disable built in packages. You can also remove bloatware packages that Amazon automatically installs using this tool.
  </details>
  
 <details> 
  <summary> Install custom .apks from your computer.</summary>
  Sideload .apks and custom applications straight from NoLexa.
  
- NOTE: There is an issue where if it is not compatible with your current Kindle version it fails to install properly.
+**NOTE: There is an issue where if the apk is not compatible with your current Kindle version it fails to install properly.**
  </details>
  
  <details>
  <summary>Advanced reboot tools.</summary>
- Ability to reboot into recovery mode or fastboot.
+ Reboot into recovery mode or fastboot.
  </details>
  
  <details>
  <summary>Disable OTA Upates.</summary>
- Disable your device from automatically updating.
+ Disable your device from automatically updating via OTA (Over The Air).
  
- It is highly recommended to enable this option so your device does not get bricked from modifications.
+ It's highly recommended to enable this option so any future updates dont brick your device.
  </details>
  
-- Backup and Restore your device.
-- Take screen captures and recordings remotely.
-- Spoof your battery percentage.
+ <details>
+ <summary>Backup and Restore your device.</summary>
+ You can backup all data stored on your device with highly customizable options. Such as:
+ - Being able to backup only apps, pictures, settings, or everything.
+ </details>
+
+<details>
+ <summary>Take screen captures and recordings remotely.</summary>
+Pictures taken at original resolution quality.
+ </details>
+ 
+ <details>
+ <summary>Spoof your battery percentage.</summary>
+ Spoof your battery so it can show up as any defined percentage or if it's connected to power or not.
+ </details>
  
  ## Supported Devices
 NoLexa currently is known to work on the following Kindle Fire Devices. If your model is not listed below there is a chance it may not be supported.
 
+<details>
+<summary>Supported Devices</summary>
 - Fire HD 8 (2018) (Tested + Full Support)
 - Fire HD 8 (2017) (Tested + Full Support)
+ 
+ 
+ </details>
 
 [This](https://en.wikipedia.org/wiki/Fire_HD) Wikipedia page shows all Fire names and codenames.
 
