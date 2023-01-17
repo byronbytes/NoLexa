@@ -9,7 +9,10 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 
 ## Features
 - Remove Alexa from your Kindle Fire.
-- View basic device information and dump them to a text file.
+<details>
+<summary>View device information and dump them to a text file.</summary>
+You will be able to view most information about your device.
+</details>
 - Root your device. **(May need to manually root.)**
 - Built-in Package Manager.
 - Install custom .apks from your computer (aka sideloading).
