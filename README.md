@@ -17,6 +17,8 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 <details>
 <summary>View device information and dump them to a text file.</summary>
 You will be able to view most information about your device such as:
+ 
+ 
  - Advanced information about device name, version, etc
 </details>
 
@@ -70,10 +72,13 @@ NoLexa currently is known to work on the following Kindle Fire Devices. If your 
 
 <details>
 <summary>Supported Devices</summary>
+ 
 - Fire HD 8 (2018) (Tested + Full Support)
+ 
+ 
 - Fire HD 8 (2017) (Tested + Full Support)
  
- 
+
  </details>
 
 [This](https://en.wikipedia.org/wiki/Fire_HD) Wikipedia page shows all Fire names and codenames.
