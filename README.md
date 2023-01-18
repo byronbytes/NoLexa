@@ -11,20 +11,22 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 ## Features
 <details>
 <summary> Remove Alexa from your Kindle Fire. </summary>
- Removes all functionality from Alexa. Not just disabling it from the software, but uninstalling it entirely.
+This removes all functionality from Alexa. This doesn't just disable it from the software but entirely uninstalls it from the device, and all of its other services.
  </details>
  
 <details>
 <summary>View device information and dump them to a text file.</summary>
-You will be able to view most information about your device such as:
- 
+This will output a lot of important and useful device information that can be used for debugging and logging purposes, such as:
  
  - Advanced information about device name, version, etc
+ - Useful debug information.
+ 
+You can also dump all of the information to a text file for better readability.
 </details>
 
 <details>
  <summary> Root your device. </summary>
- You may need to manually root your device for this to work.
+You will be able to root your device through NoLexa. More information on this soon.
  </details>
  
  <details>
@@ -35,6 +37,7 @@ You will be able to view most information about your device such as:
 <details> 
  <summary> Install custom .apks from your computer.</summary>
  Sideload .apks and custom applications straight from NoLexa.
+ 
  
 **NOTE: There is an issue where if the apk is not compatible with your current Kindle version it fails to install properly.**
  </details>
@@ -54,6 +57,8 @@ You will be able to view most information about your device such as:
  <details>
  <summary>Backup and Restore your device.</summary>
  You can backup all data stored on your device with highly customizable options. Such as:
+ 
+ 
  - Being able to backup only apps, pictures, settings, or everything.
  </details>
 
@@ -87,15 +92,18 @@ NoLexa currently is known to work on the following Kindle Fire Devices. If your 
 To start using NoLexa, you will need a few prerequisites.
 
 ## Support
-You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects such as Tasks and NoLexa. There are different options of donating such as Patreon and others.
-
-[Patreon](https://patreon.com/byronbytes)
+You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects and being able to support myself financially.
 
 ## FAQ
 
 Q: Why is NoLexa **not** open sourced yet?
 
-A: I believe in keeping software open source, but this application is a very experimental stage and I want to keep this private until it's fully stable. There also could be legal issues, which I'm trying to avoid, but I'm here to express freedom for others.
+A: I believe in keeping software open source, but this application is a very experimental stage and I want to keep this private until it's fully stable. There also could be legal issues, which I'm trying to avoid.
+
+
+Q: Is this safe?
+
+A: This is a tweaking tool which means it's recommended to know what you're doing before making any changes.
 
 ## Credits
 [MADB for .NET](https://github.com/quamotion/madb)
