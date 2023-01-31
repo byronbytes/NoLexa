@@ -8,4 +8,4 @@ We are planing on adding a Gadgets section with certain utilities you can use, t
 The Battery Spoofer will have 2 settings. An input box to put in the battery number you want to spoof, and the status of the charger you want to spoof. You can spoof the battery percentage from 1-100% and the status to Charging or Not Charging.
 
 ## Critical Functions
-We also have been working on the critical features of NoLexa that make it work, such as the connector tool and more. We've currently implomented the basic functions such as power options, remove bloat, and package removals.
+We also have been working on the critical features of NoLexa that make it work, such as the connector tool and more. We've currently implemented the basic functions such as power options, remove bloat, and package removals.
