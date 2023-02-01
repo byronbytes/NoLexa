@@ -20,7 +20,7 @@ You are now able to disable OTA updates from within the app. This is currently h
 From the "Device Selection" menu, you are now able to install ADB to the proper directory if you have administrator privelages. We will work on a fix so all users can install it.
 
 ### Battery Spoofer Hotfix
-You are now 
+You are now able to reset the battery percentage to normal instead of having to reboot the device to get the percentage back to normal.
 
-## Critical Functions
-We also have been working on the critical features of NoLexa that make it work, such as the connector tool and more. We've currently implemented the basic functions such as power options, remove bloat, and package removals.
+### UI Optimizations and Bug Fixes
+Fixed some bugs throughout the interface, inconsistancy, and more.
