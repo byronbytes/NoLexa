@@ -19,9 +19,9 @@ This removes all functionality from Alexa. This doesn't just disable it from the
 This will output a lot of important and useful device information that can be used for debugging and logging purposes, such as:
  
  - Advanced information about device name, version, etc
- - Useful debug information.
+ - Screen info
+ - Battery info
  
-You can also dump all of the information to a text file for better readability.
 </details>
 
 <details>
@@ -37,9 +37,6 @@ You will be able to root your device through NoLexa. More information on this so
 <details> 
  <summary> Install custom .apks from your computer.</summary>
  Sideload .apks and custom applications straight from NoLexa.
- 
- 
-**NOTE: There is an issue where if the apk is not compatible with your current Kindle version it fails to install properly.**
  </details>
  
  <details>
@@ -49,17 +46,12 @@ You will be able to root your device through NoLexa. More information on this so
  
  <details>
  <summary>Disable OTA Upates.</summary>
- Disable your device from automatically updating via OTA (Over The Air).
- 
- It's highly recommended to enable this option so any future updates dont brick your device.
+ Disable your device from automatically updating via OTA.  It's highly recommended to enable this option so any future updates dont brick your device.
  </details>
  
  <details>
  <summary>Backup and Restore your device.</summary>
- You can backup all data stored on your device with highly customizable options. Such as:
- 
- 
- - Being able to backup only apps, pictures, settings, or everything.
+ You can backup all data stored on your device with highly customizable options.
  </details>
 
 <details>
