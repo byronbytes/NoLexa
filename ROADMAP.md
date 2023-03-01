@@ -1,7 +1,8 @@
 # NoLexa Roadmap
+These are my current release goals for NoLexa.
 
-## Version 0.1.0 Public Beta Preview (Spring 2023)
-We aim to release the first public preview in Spring of 2023 with the following main features.
+## Version 0.1 Public Beta Preview
+I am aiming to release the first public beta preview of NoLexa around May-June of 2023, and will hopefully have the following features out.
 
 - View basic device information and dump them to a text file.
 - Built-in Package Manager.
