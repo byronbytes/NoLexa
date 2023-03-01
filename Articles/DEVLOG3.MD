@@ -11,10 +11,13 @@ There is now a settings button to access application settings where you can chan
 ## What's New
 
 ### Remote Screen Recording
-There is now an option to record the screen and stop it at anytime. Screen recordings will be sent to the ``Screencaps`` directory. I am unsure if being able to remotely VIEW your screen in a window will be possible though.
+There is now an option to record the screen and stop it at anytime. Screen recordings will be sent to the ``Screencaps`` directory. I am unsure if being able to remotely VIEW your screen in a NoLexa window will be possible though.
 
-### Battery Spoofer Update
+### Battery Spoofer Tweak
 You can now spoof if your device is plugged in on the charger or is not on a charger. Pressing ``Reset`` will change it back to normal.
+
+### Restore your Device
+You can now fully backup and restore your device. Finally got around to testing the restore feature and it works. Now all I need to do is add the ability to customize what you *want* to backup/restore.
 
 
 ### Interface Overhaul
@@ -24,14 +27,13 @@ We are slowly rolling out a new interface which adds categories, a consistent th
 The old interface used to look like this 
 ![image](https://user-images.githubusercontent.com/53088136/221970486-305a1edf-81af-46bc-9745-a7518620f735.png)
 
-
 ### Dump to Text
-You can now dump system information to text, and they will be neatly organized depending on what type of dump it is.
+You can now dump system information to text, and they will be neatly organized depending on what type of file dump it is.
 ![image](https://user-images.githubusercontent.com/53088136/221969096-f0d050bc-e9f1-4591-99e9-7499135caf8c.png)
 
 
 ### Remote ADB Shell
-You can now access an ADB shell directly from NoLexa! This feature is quite self-explanitory.
+You can now access an ADB shell directly from NoLexa!
 ![image](https://user-images.githubusercontent.com/53088136/221971605-9818f986-ac4b-499e-abae-0393e6f6f73c.png)
 ![image](https://user-images.githubusercontent.com/53088136/221973675-7d289f99-e575-480d-9423-600141081415.png)
 
