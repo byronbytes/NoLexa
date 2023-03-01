@@ -10,13 +10,8 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 
 ## Features
 
-
 <details>
-Device Tweaks
-</details>
-
-<details>
-<summary> Remove Alexa from your Kindle Fire. </summary>
+<summary> Remove Alexa from your Kindle Device. </summary>
 This removes all functionality from Alexa. This doesn't just disable it from the software but entirely uninstalls it from the device, and all of its other services.
  </details>
  
