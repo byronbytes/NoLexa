@@ -1,5 +1,6 @@
-# NoLexa
+# ![icons8-amazon-alexa-logo-48](https://user-images.githubusercontent.com/53088136/227619585-130c9892-90b3-44c2-835a-331901bc7238.png) NoLexa ![NoLexa Update](https://img.shields.io/endpoint?url=https%3A%2F%2Fpastebin.com%2Fraw%2F9epwTi8S) ![GitHub last commit](https://img.shields.io/github/last-commit/byronbytes/NoLexa)
 A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. NoLexa will be available for beta testing in the Spring of 2023.
+
 
 ## Why?
 **No one likes Amazon Alexa.** It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
