@@ -11,55 +11,25 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 
 ## Features
 
-<details>
-<summary> Remove Alexa from your Kindle Device. </summary>
-This removes all functionality from Alexa. This doesn't just disable it from the software but entirely uninstalls it from the device, and all of its other services.
- </details>
- 
-<details>
-<summary>View device information and dump them to a text file.</summary>
-This will output a lot of important and useful device information that can be used for debugging and logging purposes, such as:
- 
- - Advanced information about device name, version, etc
- - Screen info
- - Battery info
- 
-</details>
-
- <details>
- <summary> Built-in Package Manager. </summary>
- View, uninstall, enable, and disable built in packages. You can also remove bloatware packages that Amazon automatically installs using this tool.
- </details>
- 
-<details> 
- <summary> Install custom .apks from your computer.</summary>
- Sideload .apks and custom applications straight from NoLexa.
- </details>
- 
- <details>
- <summary>Advanced reboot tools.</summary>
- Reboot into recovery mode or fastboot.
- </details>
- 
- <details>
- <summary>Disable OTA Upates.</summary>
- Disable your device from automatically updating via OTA.  It's highly recommended to enable this option so any future updates dont brick your device.
- </details>
- 
- <details>
- <summary>Backup and Restore your device.</summary>
- You can backup all data stored on your device with highly customizable options.
- </details>
-
-<details>
- <summary>Take screen captures and recordings remotely.</summary>
-Pictures taken at original resolution quality.
- </details>
- 
- <details>
- <summary>Spoof your battery percentage.</summary>
- Spoof your battery so it can show up as any defined percentage or if it's connected to power or not.
- </details>
+- Remove Alexa from your Kindle Device.
+- Built in Package Manager.
+   - Uninstall, enable, and disable built in packages.
+   - Remove bloatware that Amazon auto-installs.
+   - Sideload and install custom APKs.
+- Advanced Reboot Tools.
+   - Reboot into fastboot or recovery mode.
+- Disable OTA Updates.
+- Install Google Services.
+- Remove Wallpaper Advertisements.
+- Remote ADB Console.
+- Dump System Details to Text.
+- Backup & Restore Your Device.
+- Take Remote Screenshots & Recordings.
+- Auto-Install ADB (if you don't have it)
+- Battery Spoofer.
+- Change Brightness Settings.
+  - Modify auto-brightness
+  - Change brightness with an integer.
  
  ## Supported Devices
 NoLexa currently is known to work on the following Kindle Fire Devices. If your model is not listed below there is a chance it may not be supported.
@@ -87,7 +57,7 @@ You may donate if this application has helped you, donating can help me develop 
 
 Q: Why is NoLexa **not** open sourced yet?
 
-A: I believe in keeping software open source, but this application is a very experimental stage and I want to keep this private until it's fully stable. There also could be legal issues, which I'm trying to avoid.
+A: I believe in keeping software open source, but this application is in a very experimental stage and I want to keep this private until it's fully stable. There also could be legal issues, which I'm trying to avoid.
 
 
 Q: Is this safe?
