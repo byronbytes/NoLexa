@@ -18,6 +18,7 @@ I am aiming to release the first public beta preview of NoLexa around May-June o
 - Remote ADB Shell
 - A functioning method to disable or completely remove Alexa from your device.
 - De-Amazonify the device by installing Google Play Services, custom launcher, and custom keyboard.
+- Remove Lockscreen / Wallpaper ads.
 ***
 
 <details>
@@ -26,6 +27,8 @@ I am aiming to release the first public beta preview of NoLexa around May-June o
   
 - Battery Spoofer.
 - Remote screenshots and recordings.
+- Brightness Modifier.
+- Customize Notification bar.
 ***
 <details>
  <summary> UX NoLexa Features </summary>
@@ -33,7 +36,7 @@ I am aiming to release the first public beta preview of NoLexa around May-June o
 
 - Properly select which device to choose (if multiple are selected)
 - Install ADB in the right directory if it is not detected.
-- Auto configure features depending on what device you are using
+- Auto configure features depending on what device you are using.
 
 ***
 
