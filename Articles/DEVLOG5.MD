@@ -5,16 +5,16 @@ This is the fifth development log of NoLexa. This devlog focuses more towards co
 
 #### Organization
 All ADB functions that AREN'T calls to the device (such as remotely installing ADB) are now put in the NoLexa.ADB library. I am working on a neater
-and better organized way to keep things clean.
+and better organized way to keep classes and methods clean. This also allows for multiple form support.
 
 #### UI Tweaks
-Minimal UI tweaks to the first page.
+Minimal UI tweaks to the ADB setup page.
 
 
 ## New Features
 
 #### Remove Lockscreen Ads
-There will be a feature that removes advertisements from your lockscreen.
+There will be a feature that removes advertisements from your lockscreen which is still being worked on and may need the device to be rooted.
 
 #### Brightness Modifier
-Useless tweak that modifies your brightness level.
+Small tweak that modifies your brightness level.
