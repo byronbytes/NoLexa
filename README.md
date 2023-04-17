@@ -54,15 +54,30 @@ To start using NoLexa, you will need a few prerequisites.
 You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects and being able to support myself financially.
 
 ## FAQ
+<details>
+<summary>Q: Why is NoLexa not open source **yet**?</summary>
+A: I believe in keeping software open source, but this application is in a very experimental stage and I want to keep this closed until it's fully stable and ready for the public. There also could be legal issues with making this open source, which I am trying to avoid.
+</details>
 
-Q: Why is NoLexa **not** open sourced yet?
+<details>
+<summary>Q: Is NoLexa safe to use?</summary>
+A: If you know what you are doing and make frequent backups, yes. Since this is a tweaking tool you should keep in mind what you change.
+</details>
 
-A: I believe in keeping software open source, but this application is in a very experimental stage and I want to keep this private until it's fully stable. There also could be legal issues, which I'm trying to avoid.
+<details>
+<summary>Q: Will NoLexa stay free?</summary>
+A: Yes. You can make optional donations which will go towards better funding of NoLexa, and upcoming projects.
+</details>
 
+<details>
+<summary>Q: Will NoLexa work on any Kindle Device?</summary>
+A: **Mostly**. There are some kindle devices that do not support NoLexa due to it being too old, or not having Alexa.
+</details>
 
-Q: Is this safe?
-
-A: This is a tweaking tool which means it's recommended to know what you're doing before making any changes.
+<details>
+<summary>Q: Will there be FireOS / FireTV support in the future?</summary>
+A: Yes. I have plans to add support for the Firestick and FireTV sometime in the late future.
+</details>
 
 ## Credits
 [MADB for .NET](https://github.com/quamotion/madb)
