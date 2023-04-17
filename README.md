@@ -55,28 +55,30 @@ You may donate if this application has helped you, donating can help me develop 
 
 ## FAQ
 <details>
-<summary>Q: Why is NoLexa not open source **yet**?</summary>
-A: I believe in keeping software open source, but this application is in a very experimental stage and I want to keep this closed until it's fully stable and ready for the public. There also could be legal issues with making this open source, which I am trying to avoid.
+   <summary>Q: Why is NoLexa not open source <b>yet</b>?</summary>
+A: I believe in keeping software open source, but this application is in a very experimental stage and <b>I want to keep this closed until it's fully stable and ready for the public.</b> There also could be legal issues with making this open source, which I am trying to avoid.
 </details>
+
 
 <details>
 <summary>Q: Is NoLexa safe to use?</summary>
-A: If you know what you are doing and make frequent backups, yes. Since this is a tweaking tool you should keep in mind what you change.
+   A: <b>If you know what you are doing and make frequent backups, yes</b>. Since this is a tweaking tool you should keep in mind what you change.
 </details>
+
 
 <details>
 <summary>Q: Will NoLexa stay free?</summary>
-A: Yes. You can make optional donations which will go towards better funding of NoLexa, and upcoming projects.
+   A: <b>Yes.</b> You can make optional donations which will go towards better funding of NoLexa, and upcoming projects.
 </details>
 
 <details>
 <summary>Q: Will NoLexa work on any Kindle Device?</summary>
-A: **Mostly**. There are some kindle devices that do not support NoLexa due to it being too old, or not having Alexa.
+   A: <b>Mostly.</b> There are some kindle devices that do not support NoLexa due to it being too old, or not having Alexa.
 </details>
 
 <details>
 <summary>Q: Will there be FireOS / FireTV support in the future?</summary>
-A: Yes. I have plans to add support for the Firestick and FireTV sometime in the late future.
+   A: <b>Yes.</b> I have plans to add support for the Firestick and FireTV sometime in the future.
 </details>
 
 ## Credits
