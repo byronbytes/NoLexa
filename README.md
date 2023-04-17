@@ -6,7 +6,7 @@ A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. 
 **No one likes Amazon Alexa.** It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
 
 
-My mom is an avid hater against Alexa and even went as far as to drill out the microphone in the FireTV to prevent Alexa from listening in. She wanted to remove Alexa completely from the Kindle because in newer updates it got more intrusive and would keep on enabling after disabling it. 
+My mom is an avid hater against Alexa and even went as far as to drill out the microphone in the FireTV to prevent Alexa from listening in. She wanted to remove Alexa completely from the Kindle because in newer updates it got more intrusive and there was no guaranteed way to disable it anymore. 
 
 
 ## Features
@@ -32,23 +32,24 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
   - Change brightness with an integer.
  
  ## Supported Devices
-NoLexa currently is known to work on the following Kindle Fire Devices. If your model is not listed below there is a chance it may not be supported.
+NoLexa currently is known to work on the following Kindle Fire devices. If your model is not listed below there is a chance it may not be supported and to continue with caution.
 
 <details>
 <summary>Supported Devices</summary>
  
-- Fire HD 8 (2018) (Tested + Full Support)
+- Fire HD 8 (2018) (Tested + Supported)
  
  
-- Fire HD 8 (2017) (Tested + Full Support)
+- Fire HD 8 (2017) (Tested + Supported)
  
 
  </details>
 
-[This](https://en.wikipedia.org/wiki/Fire_HD) Wikipedia page shows all Fire names and codenames.
+[This Wikipedia article](https://en.wikipedia.org/wiki/Fire_HD) shows all Fire names and codenames in better detail.
 
 ## Installation
 To start using NoLexa, you will need a few prerequisites.
+
 
 ## Support
 You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects and being able to support myself financially.
