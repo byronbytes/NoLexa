@@ -1,4 +1,4 @@
-# ![icons8-amazon-alexa-logo-48](https://user-images.githubusercontent.com/53088136/227619585-130c9892-90b3-44c2-835a-331901bc7238.png) NoLexa ![NoLexa Update](https://img.shields.io/endpoint?url=https%3A%2F%2Fpastebin.com%2Fraw%2F9epwTi8S) ![GitHub last commit](https://img.shields.io/github/last-commit/byronbytes/NoLexa)
+# ![icons8-amazon-alexa-logo-48](https://user-images.githubusercontent.com/53088136/227619585-130c9892-90b3-44c2-835a-331901bc7238.png) NoLexa ![NoLexa Update](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbyronbytes%2FNoLexa%2Fmaster%2Fnolexa_badge.json) ![GitHub last commit](https://img.shields.io/github/last-commit/byronbytes/NoLexa)
 A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. NoLexa will be available for beta testing in the Spring of 2023.
 
 
@@ -89,7 +89,7 @@ This project would not have been possible if it wasn't for this extremely helpfu
 
 
 ### Resources
-These resources are meant for development, but if you want to PR this is a good place to start.
+If you want to help contribute this is a good place to start.
 
 https://www.automatetheplanet.com/adb-cheat-sheet/
 
