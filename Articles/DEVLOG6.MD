@@ -1,5 +1,5 @@
 # Development Log #6 (4/24/23)
-This is the sixth development log of NoLexa. This devlog focuses on the base application to help overall stability and core functions.
+This is the sixth development log of NoLexa. This devlog focuses on the base application to help overall stability and core functions. After this devlog, most devlogs will be more descriptive and go more in-depth on the features and how they were added.
 
 
 ## What's New
@@ -23,6 +23,9 @@ With the new auto-update check, there will be a cache located in the NoLexa fold
 #### Check for Updates on Start
 You can change if you want to always check for updates when you start NoLexa.
 
+
+## What's Next
+I am planning on making a designated installer so you don't need to keep downloading the portable version for every new update.
 
 
 
