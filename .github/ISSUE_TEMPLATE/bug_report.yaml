@@ -7,12 +7,28 @@ body:
     attributes:
       value: |
         Thank you for filling out this bug report.
+ - type: checkboxes
+    id: new-bug
+    attributes:
+      label: Has this been reported already?
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+      - label: I have searched the existing issues
+        required: true
   - type: textarea
     id: what-happened
     attributes:
       label: What Happened?
       description: Please explain how the bug occurred.
       value: "Type here..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: Please write the steps in a list form.
     validations:
       required: true
   - type: dropdown
@@ -30,8 +46,7 @@ body:
     id: os
     attributes:
       label: Current OS
-      description: What Operating System are you using?
-      multiple: true
+      description: What OS are you currently using?
       options:
         - Windows 11
         - Windows 10
