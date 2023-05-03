@@ -11,16 +11,15 @@ body:
     id: what-happened
     attributes:
       label: Bug Details
-      description: Please give us information before the bug happened, and what you were doing.
-      placeholder: I was doing something, and something happened.
-      value: "!"
+      description: Please give clear and consise information on how the bug was caused.
+      value: "I was doing something, and something happened."
     validations:
       required: true
   - type: dropdown
     id: version
     attributes:
       label: Current Version
-      description: What version of our software are you running?
+      description: What version of NoLexa are you running?
       options:
         - 0.0.1 Preview
         - 0.0.1
@@ -41,16 +40,6 @@ body:
   - type: textarea
     id: logs
     attributes:
-      label: Log output
+      label: Log Output
       description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
       render: shell
-  - type: dropdown
-    id: replicate
-    attributes:
-      label: Reproduce Bug
-      description: Are you able to successfully reproduce the bug?
-      options:
-        - Yes, I can replicate the bug.
-        - No, I cannot replicate the bug.
-    validations:
-      required: true
