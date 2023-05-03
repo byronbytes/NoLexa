@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thank you for filling out this bug report.
- - type: checkboxes
+  - type: checkboxes
     id: new-bug
     attributes:
       label: Has this been reported already?
