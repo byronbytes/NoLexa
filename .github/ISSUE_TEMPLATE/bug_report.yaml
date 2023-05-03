@@ -31,22 +31,24 @@ body:
       placeholder: Please write the steps in a list form
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: version
     attributes:
       label: Version
       description: What versions has this bug occurred on? 
+      multiple: true
       options:
         - 0.0.1 Preview
         - 0.0.1
         - Other
     validations:
       required: true
-  - type: checkboxes
+  - type: dropdown
     id: os
     attributes:
       label: Current OS
       description: What OS are you currently using?
+      multiple: true
       options:
         - Windows 11
         - Windows 10
