@@ -50,7 +50,7 @@ body:
       label: Reproduce Bug
       description: Are you able to successfully reproduce the bug?
       options:
-        - Yes
-        - No
+        - Yes, I can replicate the bug.
+        - No, I cannot replicate the bug.
     validations:
       required: true
