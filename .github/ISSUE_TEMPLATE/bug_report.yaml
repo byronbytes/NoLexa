@@ -13,13 +13,13 @@ body:
       label: Has this been reported already?
       description: Please search to see if an issue already exists for the bug you encountered.
       options:
-      - label: I have checked that this is not reported yet.
+      - label: This bug has not been reported yet.
         required: true
   - type: textarea
     id: what-happened
     attributes:
       label: What Happened?
-      description: Please explain how the bug occurred.
+      description: Please explain how the bug occurred and how it affected you.
       value: "Type here..."
     validations:
       required: true
@@ -31,18 +31,18 @@ body:
       placeholder: Please write the steps in a list form
     validations:
       required: true
-  - type: dropdown
+  - type: checkboxes
     id: version
     attributes:
-      label: Current Version
-      description: What version of NoLexa are you running?
+      label: Version
+      description: What versions has this bug occurred on? 
       options:
         - 0.0.1 Preview
         - 0.0.1
         - Other
     validations:
       required: true
-  - type: dropdown
+  - type: checkboxes
     id: os
     attributes:
       label: Current OS
