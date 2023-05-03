@@ -7,13 +7,14 @@ body:
     attributes:
       value: |
         Thank you for filling out this bug report.
-  - type: dropdown
+  - type: checkboxes
     id: new-bug
     attributes:
       label: Has this been reported already?
       description: Please search to see if an issue already exists for the bug you encountered.
       options:
-        - I have searched the existing issues
+      - label: I have checked that this is not reported yet.
+        required: true
   - type: textarea
     id: what-happened
     attributes:
@@ -27,7 +28,7 @@ body:
     attributes:
       label: Steps To Reproduce
       description: Steps to reproduce the behavior.
-      placeholder: Please write the steps in a list form.
+      placeholder: Please write the steps in a list form
     validations:
       required: true
   - type: dropdown
