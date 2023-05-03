@@ -55,7 +55,7 @@ body:
         - Windows 8.1/8
         - Windows 7
         - Other
-     validations:
+    validations:
       required: true
   - type: textarea
     id: logs
