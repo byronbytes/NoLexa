@@ -34,8 +34,8 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: Version
-      description: What versions has this bug occurred on? 
+      label: Current Version
+      description: What versions has this bug occurred on? Select multiple if you tested on multiple versions.
       multiple: true
       options:
         - 0.0.1 Preview
@@ -55,6 +55,8 @@ body:
         - Windows 8.1/8
         - Windows 7
         - Other
+     validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
