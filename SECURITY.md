@@ -8,14 +8,12 @@ If you are using an unsupported version, it is **highly** recommended to update 
 | Version | Supported          |
 | ------- | ------------------ |
 | 0.0.1   | :white_check_mark: |
-| 0.0.1   | :white_check_mark: |
-| < 0.0.1   | :x:              |
 
 *Key: :x: = Unsupported | :white_check_mark: = Supported*
 
 ## Reporting a Vulnerability
 
-If the vulnerability is very critical, you must privately disclose it to me at (TBD).
+If you ever find a vulnerability, please contact me ASAP. Vulnerabilities are recieved within a few hours, and will get patched within the next few days.
 
 
 Tell them where to go, how often they can expect to get an update on a
