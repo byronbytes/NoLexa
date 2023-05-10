@@ -14,11 +14,11 @@ While updating Tasks I accidentally leaked some code of NoLexa, so it would be a
 ![image](https://github.com/byronbytes/NoLexa/assets/53088136/261b290b-a118-480f-8e23-b7e3baabd0b0)
 This is a simple function, it checks whether or not NoLexa is up to date by comparing the string with an online string. GetCloudVersion has been slightly modified for Tasks, but the code is almost the same.
 
-#### StartUpdate()
+
+### StartUpdate()
 ![image](https://github.com/byronbytes/NoLexa/assets/53088136/ecfecb29-6d41-47ef-a0a8-ae6072807b90)
+This starts the update function, which was left almost unchanged besides the URL, Agent, and zip name.
 
-
-This starts the update function, which was left almost unchanged besides the URL and Agent.
 
 
 ![image](https://github.com/byronbytes/NoLexa/assets/53088136/ce674ea8-0238-404e-9e1c-fff82f79bc6a)
