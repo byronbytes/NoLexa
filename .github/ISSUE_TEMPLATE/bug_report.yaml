@@ -1,7 +1,7 @@
 name: NoLexa Bug Report
 description: Report a bug found in NoLexa.
 title: "[Bug]: "
-labels: ["bug"]
+labels: ["pending"]
 body:
   - type: markdown
     attributes:
@@ -13,7 +13,7 @@ body:
       label: Has this been reported already?
       description: Please search to see if an issue already exists for the bug you encountered.
       options:
-      - label: This bug has not been reported yet.
+      - label: I have checked that this has not been reported yet.
         required: true
   - type: textarea
     id: what-happened
@@ -38,7 +38,6 @@ body:
       description: What versions has this bug occurred on? Select multiple if you tested on multiple versions.
       multiple: true
       options:
-        - 0.0.1 Preview
         - 0.0.1
         - Other
     validations:
