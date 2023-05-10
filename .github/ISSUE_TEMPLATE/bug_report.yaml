@@ -1,0 +1,65 @@
+name: NoLexa Bug Report
+description: Report a bug found in NoLexa.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for filling out this bug report.
+  - type: checkboxes
+    id: new-bug
+    attributes:
+      label: Has this been reported already?
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+      - label: This bug has not been reported yet.
+        required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What Happened?
+      description: Please explain how the bug occurred and how it affected you.
+      value: "Type here..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: Please write the steps in a list form
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Current Version
+      description: What versions has this bug occurred on? Select multiple if you tested on multiple versions.
+      multiple: true
+      options:
+        - 0.0.1 Preview
+        - 0.0.1
+        - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Current OS
+      description: What OS are you currently using?
+      multiple: true
+      options:
+        - Windows 11
+        - Windows 10
+        - Windows 8.1/8
+        - Windows 7
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log Output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code.
+      render: shell
