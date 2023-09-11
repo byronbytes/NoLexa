@@ -1,9 +1,9 @@
 # ![icons8-amazon-alexa-logo-48](https://user-images.githubusercontent.com/53088136/227619585-130c9892-90b3-44c2-835a-331901bc7238.png) NoLexa ![NoLexa Update](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fbyronbytes%2FNoLexa%2Fmaster%2Fnolexa_badge.json) ![GitHub last commit](https://img.shields.io/github/last-commit/byronbytes/NoLexa)
-A multi-purpose tweaking tool to remove Amazon Alexa from your device for good. NoLexa will be available for beta testing in the Spring of 2023.
+A multi-purpose tweaking tool to remove Amazon Alexa from your device for good.
 
 
 ## Why?
-**No one likes Amazon Alexa.** It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces. This is where NoLexa comes in handy. 
+**No one likes Amazon Alexa.** It's been proven multiple times that Alexa listens to your conversations and sends the data to Amazon without your knowledge or consent. There is no complete way to delete Alexa, and the best you can do is disable it in the software, which still leaves a lot of unwanted traces.
 
 
 My mom is an avid hater against Alexa and even went as far as to drill out the microphone in the FireTV to prevent Alexa from listening in. She wanted to remove Alexa completely from the Kindle because in newer updates it got more intrusive and there was no guaranteed way to disable it anymore. 
@@ -25,7 +25,7 @@ My mom is an avid hater against Alexa and even went as far as to drill out the m
 - Dump System Details to Text.
 - Backup & Restore Your Device.
 - Take Remote Screenshots & Recordings.
-- Auto-Install ADB (if you don't have it)
+- Auto-Install ADB
 - Battery Spoofer.
 - Change Brightness Settings.
   - Modify auto-brightness
@@ -38,7 +38,6 @@ NoLexa currently is known to work on the following Kindle Fire devices. If your 
 <summary>Supported Devices</summary>
  
 - Fire HD 8 (2018) (Tested + Supported)
- 
  
 - Fire HD 8 (2017) (Tested + Supported)
  
@@ -55,6 +54,12 @@ To start using NoLexa, you will need a few prerequisites.
 You may donate if this application has helped you, donating can help me develop better software for everyone to use, and it would be very appreciated. Even $1 makes a huge difference. These funds would go to better development of other projects and being able to support myself financially.
 
 ## FAQ
+
+<details>
+<summary>Q: When will NoLexa be available for beta testing?</summary>
+   A: <b>I am aiming to release around May-June of 2024. </b>
+</details>
+
 <details>
    <summary>Q: Why is NoLexa not open source <b>yet</b>?</summary>
 A: I believe in keeping software open source, but this application is in a very experimental stage and <b>I want to keep this closed until it's fully stable and ready for the public.</b> There also could be legal issues with making this open source, which I am trying to avoid.
@@ -89,7 +94,7 @@ This project would not have been possible if it wasn't for this extremely helpfu
 
 
 ### Resources
-If you want to help contribute this is a good place to start.
+If you want to help contribute these are good resources to start with.
 
 https://www.automatetheplanet.com/adb-cheat-sheet/
 
